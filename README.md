@@ -1,8 +1,8 @@
-[![Veja como ficou](https://drive.google.com/file/d/1vz4WKFr0p1jpFh87UBJ4tTaT4PZxV_g4/view?usp=sharing)](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
+[![Veja como ficou](https://passport.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fusers%2Fpassport%2F1625323373319-7a005e8b-6557-4b40-a3b8-6f608161a42f.jpg&w=384&q=75)](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
 
-#Desafio 01 - Conceitos do React Native
+# Desafio 01 - Conceitos do React Native
 
-💻 #Sobre o desafio
+💻 ## Sobre o desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no React Native.
 
