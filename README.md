@@ -1,4 +1,4 @@
-[![Veja como ficou](https://passport.rocketseat.com.br/_next/image?url=https%3A%2F%2Fxesque.rocketseat.dev%2Fusers%2Fpassport%2F1625323373319-7a005e8b-6557-4b40-a3b8-6f608161a42f.jpg&w=384&q=75)](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
+[![Veja como ficou](https://64.media.tumblr.com/aa4fde0abf68e87b6086c3b4e293567b/97ca5acdf3119ea1-bf/s1280x1920/28254dedd14a36f3672a0714497d6dba6652b8a3.png)](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
 
 # Desafio 01 - Conceitos do React Native
 
