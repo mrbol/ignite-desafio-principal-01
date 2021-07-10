@@ -1,5 +1,3 @@
-https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing
-
 [![Veja como ficou](https://drive.google.com/file/d/1vz4WKFr0p1jpFh87UBJ4tTaT4PZxV_g4/view?usp=sharing)](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
 
 #Desafio 01 - Conceitos do React Native
