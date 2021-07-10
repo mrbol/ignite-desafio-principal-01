@@ -1,8 +1,8 @@
-![cover](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
+https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing
 
 #Desafio 01 - Conceitos do React Native
 
-##💻 Sobre o desafio
+💻 #Sobre o desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no React Native.
 
