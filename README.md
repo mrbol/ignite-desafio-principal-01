@@ -46,5 +46,3 @@ Passo 02 - Abrir uma nova janela terminal
 ```cl
 yarn android
 ```
-
-
