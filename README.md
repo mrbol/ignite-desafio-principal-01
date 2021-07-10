@@ -1,4 +1,4 @@
-[![Veja como ficou](https://64.media.tumblr.com/aa4fde0abf68e87b6086c3b4e293567b/97ca5acdf3119ea1-bf/s1280x1920/28254dedd14a36f3672a0714497d6dba6652b8a3.png)](https://drive.google.com/file/d/1xB1ef4MzHicSZb2C6-MHEbzVb9ZIOH5q/view?usp=sharing)
+[![Veja como ficou](https://64.media.tumblr.com/aa4fde0abf68e87b6086c3b4e293567b/97ca5acdf3119ea1-bf/s1280x1920/28254dedd14a36f3672a0714497d6dba6652b8a3.png)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/53f93860-3195-4519-9986-98321622bbdb/todo.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210710%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210710T192829Z&X-Amz-Expires=86400&X-Amz-Signature=7c750d9adbd7d5f8cbb95d7acb920356253a6088bc13ea40f678001fc83d9109&X-Amz-SignedHeaders=host)
 
 # Desafio 01 - Conceitos do React Native
 
